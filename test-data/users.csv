@@ -1,0 +1,3 @@
+username,password,account_balance
+test_user,Pass@123,10000
+low_balance_user,Pass@123,50
