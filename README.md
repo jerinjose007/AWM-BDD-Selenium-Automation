@@ -30,7 +30,7 @@ This is a sample Behavior Driven Development (BDD) automation framework designed
 
 
 
-\## How This Scales at JPMorgan
+\## How This Scales at Bank
 
 \- Tests can be organized by business capability (Login, Portfolio, Transactions, etc.)
 
